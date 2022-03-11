@@ -1,0 +1,9 @@
+vendor/
+src/logs
+src/cache
+.env
+docs
+.vscode/
+tests/coverage
+.phpunit.result.cache
+app.zip
